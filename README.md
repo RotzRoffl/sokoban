@@ -1,11 +1,9 @@
 # sokoban
-Terminal based game of sokoban (for Linux).
-
-![Alt Text](https://github.com/gyermolenko/sokoban/blob/master/preview.gif)
+Terminal based game of sokoban (for Linux). Forked from !(https://github.com/gyermolenko/sokoban), which has not been updated for 10 years and is incompatible with python 3.
 
 Controls: 
 -----------------------------------------------------------------------------
-* arrow keys (+hjkl)
+* arrow keys / hjkl / wasd
 * "q" for quit.
 
 Goal:
