@@ -1,5 +1,5 @@
 # sokoban
-Terminal based game of sokoban (for Linux). Forked from !(https://github.com/gyermolenko/sokoban), which has not been updated for 10 years and is incompatible with python 3.
+Terminal based game of sokoban (for Linux). Forked from https://github.com/gyermolenko/sokoban which has not been updated for 10 years and is incompatible with python 3.
 
 Controls: 
 -----------------------------------------------------------------------------
