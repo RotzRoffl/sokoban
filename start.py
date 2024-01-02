@@ -40,7 +40,7 @@ def draw():
         frmt_str = ''
         for obj in line:
             frmt_str += obj.tile + obj.color + obj.terminal_view
-        print frmt_str
+        print(frmt_str)
 
 
 def move(x, y):
@@ -103,7 +103,7 @@ def i_win():
         if area[goal_[1]][goal_[0]] is not goal_boxed:
             return False
 
-    print 'Congratulations!'
+    print('Congratulations!')
     return True
 
 
@@ -119,7 +119,7 @@ def main():
 
         if o in controls:
             if controls[o] == 'q':
-                print 'quit'
+                print('quit')
                 break
             elif controls[o] == 'left':
                 print("\033c")
