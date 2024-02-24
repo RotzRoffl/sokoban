@@ -145,7 +145,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# - choose level
-# TODO: get rid of globals
-# TODO: 'r' should restart game
